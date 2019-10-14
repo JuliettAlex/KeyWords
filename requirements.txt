@@ -1,3 +1,6 @@
-nltk
-xlsxwriter 
-datetime
+pip install nltk
+pip install xlsxwriter 
+pip install datetime
+
+>>> import nltk
+>>> nltk.download("stopwords")
